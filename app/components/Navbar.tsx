@@ -16,7 +16,7 @@ const navLinks = [
   },
   {
     title: "Resume",
-    path: "https://drive.google.com/file/d/1h6j0Ptu--8Lef8VWK7ZS2fhQYtm42Kxl/view?usp=sharing",
+    path: "https://drive.google.com/file/d/1zsZiKNF6ZL7vq8olmFyEk0AUJapL6y_b/view?usp=sharing",
   },
 ];
 
